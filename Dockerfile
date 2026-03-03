@@ -1,5 +1,5 @@
 # Base
-FROM eclipse-temurin:17-jdk-jammy
+FROM eclipse-temurin:25-jdk-noble
 
 # Set work directory
 WORKDIR /app
